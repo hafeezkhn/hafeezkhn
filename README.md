@@ -19,7 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hafiz-k-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hafiz-k-" height="20" width="30" /></a>
-<!--<a href="https://auth.geeksforgeeks.org/user/hafeez17md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hafeez17md" height="20" width="30" /></a>
-</p>-->
+<!--   -->
+<a href="https://auth.geeksforgeeks.org/user/hafeez17md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hafeez17md" height="20" width="30" /></a>
+</p>
 
 
