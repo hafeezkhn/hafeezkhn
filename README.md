@@ -5,14 +5,7 @@
 <!--<p><img width="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafeezkhn&show_icons=true&locale=en&layout=compact" alt="hafeezkhn" /></p>-->
 <!--<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="400" src="https://github-profile-trophy.vercel.app/?username=hafeezkhn" alt="hafeezkhn" /></a> </p>-->
 
-# :file_folder: Repo:
-: :penguin:[LINUX](https://github.com/hafeezkhn/programming_C/tree/main/linux_internals) <br>
-:<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f94f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f94f/512.gif" alt="🥏" width="14" height="14">[CONTROLLERS](https://github.com/hafeezkhn/programming_C/tree/main/microcontroller) <br>
-: :notebook_with_decorative_cover:[DSA](https://github.com/hafeezkhn/DSA/tree/main)<br>
-:<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="14" height="14">[Python](https://github.com/hafeezkhn/Programming_py)<br>
-:<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="14" height="14"> [C++](https://github.com/hafeezkhn/practice)<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hafeezkhn&label=Profile%20views&color=0e75b6&style=flat" alt="hafeezkhn" /> </p>
 
@@ -27,9 +20,19 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/> </a> 
 </p>
 
+# :file_folder: Repo:
+: :penguin:[LINUX](https://github.com/hafeezkhn/programming_C/tree/main/linux_internals) <br>
+:<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f94f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f94f/512.gif" alt="🥏" width="14" height="14">[CONTROLLERS](https://github.com/hafeezkhn/programming_C/tree/main/microcontroller) <br>
+: :notebook_with_decorative_cover:[DSA](https://github.com/hafeezkhn/DSA/tree/main)<br>
+:<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="14" height="14">[Python](https://github.com/hafeezkhn/Programming_py)<br>
+:<source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="14" height="14"> [C++](https://github.com/hafeezkhn/practice)<br>
+
+
 <h3 align="left">Connect...:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hafiz-k-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hafiz-k-" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/hafiz-k-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hafiz-k-" height="10" width="20" /></a>
 <!--   -->
-<a href="https://auth.geeksforgeeks.org/user/hafeez17md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hafeez17md" height="20" width="30" /></a>
+<a href="https://auth.geeksforgeeks.org/user/hafeez17md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hafeez17md" height="10" width="20" /></a>
 </p>
