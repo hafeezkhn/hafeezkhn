@@ -35,4 +35,6 @@
 <a href="https://linkedin.com/in/hafiz-k-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hafiz-k-" height="10" width="20" /></a>
 <!--   -->
 <a href="https://auth.geeksforgeeks.org/user/hafeez17md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/hafeez17md" height="10" width="20" /></a>
+<a href="https://www.hackerrank.com/khafee3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - khafee3" height="30" width="40" />
+</a>
 </p>
