@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hafiz</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafeezkhn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -6,23 +6,22 @@
 
 ---
 
-## 📬 How to Reach Me
+### 📬 How to Reach Me
+
+📫 **Email**: [hafeez017@outlook.com](mailto:hafeez017@outlook.com)
 
 <p align="left">
-  <a href="https://linkedin.com/in/hafiz-k-" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="18" height="18"/>
+  <a href="https://linkedin.com/in/hafiz-k-" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20"/>
   </a>
   &nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/hafeez17md" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="18" height="18"/>
+  <a href="https://auth.geeksforgeeks.org/user/hafeez17md" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" width="20" height="20"/>
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/khafee3" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="18" height="18"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="20" height="20"/>
   </a>
-</p>
-
-📫 **Email**: hafeez017@outlook.com
 
 ---
 
