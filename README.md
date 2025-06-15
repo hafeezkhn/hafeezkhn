@@ -51,15 +51,13 @@
 </p>
 
 ---
-
 ## 📂 Repositories
 
-<sub>
-├── <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Tux" width="14" height="14"> [**Linux Internals**](https://github.com/hafeezkhn/programming_C)<br>
-├── <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="14" height="14"> [**Microcontroller Projects**](https://github.com/hafeezkhn/programming_C)<br>
-├── 📔 [**DSA**](https://github.com/hafeezkhn/DSA)<br>
-├── <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="14" height="14"> [**Python Scripts**](https://github.com/hafeezkhn/Programming_py)<br>
-└── <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="14" height="14"> [**C++ Practice**](https://github.com/hafeezkhn/practice)<br>
-</sub>
+├── <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" width="12" height="12"> [**Linux**](https://github.com/hafeezkhn/programming_C/tree/main/linux_internals)<br>
+├── <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="Controllers" width="12" height="12"> [**Controllers**](https://github.com/hafeezkhn/programming_C/tree/main/microcontroller)<br>
+├── <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="C++" width="12" height="12"> [**C++**](https://github.com/hafeezkhn/practice)<br>
+├── <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="Python" width="12" height="12"> [**Python**](https://github.com/hafeezkhn/Programming_py)<br>
+└── 📔 [**DSA**](https://github.com/hafeezkhn/DSA)<br>
+
 
 ---
