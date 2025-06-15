@@ -1,6 +1,6 @@
 <!-- 3D Cube -->
 <p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" width="240" alt="Dev animation">
+  <img src="https://github.com/hafeezkhn/Programming_py/blob/9acc634b0a7b8c366a0f7fe5c645c1ac7c108e17/hafiz_terminal_typing.gif" width="240" alt="Dev animation">
 </p>
 <p align="center">
   <img src="https://your-image-host/hafiz_terminal_typing.gif" width="400" alt="Terminal Typing Hafiz">
