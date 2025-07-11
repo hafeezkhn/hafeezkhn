@@ -31,12 +31,13 @@
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/hafeezkhn/programming_C/tree/main/C_)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/hafeezkhn/practice/tree/master/cpp_prog)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/hafeezkhn/Programming_py/tree/main/scripting)
+[![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/hafeezkhn/DSA)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/hafeezkhn/programming_C/tree/main/linux_internals)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://github.com/hafeezkhn/programming_C/tree/main/embedded_linux)
+[![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00599C?style=for-the-badge&logo=semiconductor-manufacturing-international-corporation&logoColor=white)](https://github.com/hafeezkhn/programming_C/tree/main/microcontroller)
 
 <p align="left">
   <a href="https://git-scm.com/" target="_blank">
