@@ -34,7 +34,7 @@
 ### 📫 How to Reach
 :e-mail:: [hafeez017@outlook.com](mailto:hafeez017@outlook.com)
 <p align="left">
-  <a href="https://linkedin.com/in/hafiz-k-" target="blank">
+  <a href="https://linkedin.com/in/hafiz-k" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" height="20"/>
   </a>
   &nbsp;
