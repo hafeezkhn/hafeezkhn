@@ -52,6 +52,9 @@
 
 ---
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/khafee3)
+<!--[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=HackerRank)](https://www.hackerrank.com/khafee3)-->
+
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Profile-orange?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.naukri.com/code360/profile/06d9e90e-eb5d-440d-9592-52c33985dba3)
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hafeez17md)
 [![Credly](https://img.shields.io/badge/Credly-Profile-orange?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/hafiz-khan.77cb0e7d)
