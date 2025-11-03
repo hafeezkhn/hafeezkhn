@@ -1,6 +1,6 @@
 ## ![Hafiz | Embedded Systems Software](https://img.shields.io/badge/Hafiz-Embedded_Systems_Software-blue?style=for-the-badge)
 
-<!p align="left">
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hafeezkhn.hafeezkhn" alt="visitor badge"/>
 </p>
 
